@@ -1,0 +1,11 @@
+.loading-spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full height */
+}
+  
+  .loading-spinner img {
+    width: 250px; /* Set your desired width */
+    height: 250px; /* Set your desired height */
+}

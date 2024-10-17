@@ -1,0 +1,9 @@
+Flask
+flask-cors
+numpy
+torch
+whisper
+opencv-python
+Werkzeug
+sounddevice
+requests
