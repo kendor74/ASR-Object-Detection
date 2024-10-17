@@ -31,19 +31,24 @@ This repository contains three main components:
 
 To add a Google Colab button (icon) similar to modern GitHub repositories, you can use Markdown with a linked image to the Colab badge. Here's how you can do it:
 
-3. **Notebook Folder**
-- **Description**: This folder contains a Jupyter notebook specifically designed for running and experimenting with Whisper and YOLOv5 models in Google Colab. It provides users with an interactive environment to test, evaluate, and validate the models on their own data.
-  
-- **Key Features**:
-  - Directly load and test the Whisper ASR and YOLOv5 object detection models on custom data in Google Colab.
-  - Evaluate performance, experiment with hyperparameters, and visualize object detection results.
-  
-### Access the Colab Notebook:
+3. **Notebook Folder**  
+   - **Description**: This folder contains a Jupyter notebook specifically designed for running and experimenting with Whisper and YOLOv5 models in Google Colab. It provides users with an interactive environment to test, evaluate, and validate the models on their own data.
+     
+   - **Key Features**:
+     - Directly load and test the Whisper ASR and YOLOv5 object detection models on custom data in Google Colab.
+     - Evaluate performance, experiment with hyperparameters, and visualize object detection results.
+     
+### Access the Colab Notebook:  
 You can access the Colab notebook by clicking the button below:
 
-<div align="right"><button><a href="https://colab.research.google.com/drive/1zpemzaIv8RJTWa2G-fJ-iusAhffllLPW?usp=sharing"><img src="" heght="10px"/><img
-  src="https://colab.research.google.com/assets/colab-badge.svg"
-  alt="open with Colab" width="100px"/></a></button></div>
+<div align="right">
+  <a href="https://colab.research.google.com/drive/1zpemzaIv8RJTWa2G-fJ-iusAhffllLPW?usp=sharing" target="_blank">
+    <img
+      src="https://colab.research.google.com/assets/colab-badge.svg"
+      alt="Open in Colab" width="120px"/>
+  </a>
+</div>
+
 ---
 
 
